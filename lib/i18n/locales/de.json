@@ -1,0 +1,72 @@
+{
+  "common": {
+    "appName": "Versicherungsportal",
+    "loading": "Wird geladen...",
+    "error": "Fehler",
+    "retry": "Wiederholen",
+    "save": "Speichern",
+    "submit": "Absenden",
+    "clear": "Löschen",
+    "search": "Suchen",
+    "noResults": "Keine Ergebnisse gefunden",
+    "page": "Seite",
+    "of": "von",
+    "next": "Weiter",
+    "previous": "Zurück",
+    "required": "erforderlich"
+  },
+  "navigation": {
+    "home": "Startseite",
+    "newApplication": "Neuer Antrag",
+    "myApplications": "Meine Anträge"
+  },
+  "home": {
+    "title": "Intelligentes Versicherungsantragsportal",
+    "subtitle": "Beantragen Sie verschiedene Versicherungen und verwalten Sie Ihre Anträge an einem Ort",
+    "newApplication": {
+      "title": "Neuer Antrag",
+      "description": "Starten Sie einen neuen Versicherungsantrag",
+      "content": "Füllen Sie unser dynamisches Formular aus, um eine Kranken-, Haus-, Auto- oder Lebensversicherung zu beantragen.",
+      "button": "Antrag starten"
+    },
+    "myApplications": {
+      "title": "Meine Anträge",
+      "description": "Sehen und verwalten Sie Ihre bestehenden Anträge",
+      "content": "Greifen Sie auf Ihre eingereichten Anträge mit anpassbaren Ansichten und Filtern zu.",
+      "button": "Anträge anzeigen"
+    }
+  },
+  "apply": {
+    "title": "Neuer Versicherungsantrag",
+    "saveDraft": "Entwurf speichern",
+    "clearForm": "Formular löschen",
+    "submitting": "Wird gesendet...",
+    "submitApplication": "Antrag absenden",
+    "draftSaved": "Entwurf gespeichert",
+    "draftSavedDescription": "Ihr Antragsentwurf wurde gespeichert.",
+    "draftLoaded": "Entwurf geladen",
+    "draftLoadedDescription": "Ihr vorheriger Entwurf wurde geladen.",
+    "draftCleared": "Entwurf gelöscht",
+    "draftClearedDescription": "Ihr Antragsentwurf wurde gelöscht."
+  },
+  "applications": {
+    "title": "Meine Anträge",
+    "searchPlaceholder": "Anträge durchsuchen...",
+    "columns": "Spalten",
+    "noApplications": "Keine Anträge gefunden. Beginnen Sie mit der Erstellung eines neuen Antrags.",
+    "createApplication": "Antrag erstellen",
+    "loadError": "Fehler beim Laden der Anträge. Bitte versuchen Sie es später erneut."
+  },
+  "form": {
+    "loadError": "Fehler beim Laden des Formulars. Bitte versuchen Sie es später erneut.",
+    "renderError": "Beim Rendern des Formulars ist ein Fehler aufgetreten. Bitte versuchen Sie es später erneut."
+  },
+  "success": {
+    "title": "Erfolg",
+    "applicationSubmitted": "Ihr Antrag wurde erfolgreich eingereicht."
+  },
+  "language": {
+    "en": "Englisch",
+    "de": "Deutsch"
+  }
+}

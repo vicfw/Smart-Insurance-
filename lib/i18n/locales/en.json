@@ -1,0 +1,72 @@
+{
+  "common": {
+    "appName": "Insurance Portal",
+    "loading": "Loading...",
+    "error": "Error",
+    "retry": "Retry",
+    "save": "Save",
+    "submit": "Submit",
+    "clear": "Clear",
+    "search": "Search",
+    "noResults": "No results found",
+    "page": "Page",
+    "of": "of",
+    "next": "Next",
+    "previous": "Previous",
+    "required": "required"
+  },
+  "navigation": {
+    "home": "Home",
+    "newApplication": "New Application",
+    "myApplications": "My Applications"
+  },
+  "home": {
+    "title": "Smart Insurance Application Portal",
+    "subtitle": "Apply for different types of insurance and manage your applications in one place",
+    "newApplication": {
+      "title": "New Application",
+      "description": "Start a new insurance application",
+      "content": "Fill out our dynamic form to apply for Health, Home, Car, or Life insurance.",
+      "button": "Start Application"
+    },
+    "myApplications": {
+      "title": "My Applications",
+      "description": "View and manage your existing applications",
+      "content": "Access your submitted applications with customizable views and filters.",
+      "button": "View Applications"
+    }
+  },
+  "apply": {
+    "title": "New Insurance Application",
+    "saveDraft": "Save Draft",
+    "clearForm": "Clear Form",
+    "submitting": "Submitting...",
+    "submitApplication": "Submit Application",
+    "draftSaved": "Draft Saved",
+    "draftSavedDescription": "Your application draft has been saved.",
+    "draftLoaded": "Draft Loaded",
+    "draftLoadedDescription": "Your previous draft has been loaded.",
+    "draftCleared": "Draft Cleared",
+    "draftClearedDescription": "Your application draft has been cleared."
+  },
+  "applications": {
+    "title": "My Applications",
+    "searchPlaceholder": "Search applications...",
+    "columns": "Columns",
+    "noApplications": "No applications found. Start by creating a new application.",
+    "createApplication": "Create Application",
+    "loadError": "Failed to load applications. Please try again later."
+  },
+  "form": {
+    "loadError": "Failed to load form. Please try again later.",
+    "renderError": "There was an error rendering the form. Please try again later."
+  },
+  "success": {
+    "title": "Success",
+    "applicationSubmitted": "Your application has been submitted successfully."
+  },
+  "language": {
+    "en": "English",
+    "de": "German"
+  }
+}
