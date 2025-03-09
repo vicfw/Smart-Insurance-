@@ -1,7 +1,7 @@
 "use client";
 
 import { useState } from "react";
-import { useRouter, usePathname } from "@/lib/i18n";
+import { useRouter, usePathname } from "@/i18n";
 import { Button } from "@/components/ui/button";
 import {
   DropdownMenu,

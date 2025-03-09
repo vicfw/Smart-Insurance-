@@ -9,7 +9,7 @@ import {
   CardHeader,
   CardTitle,
 } from "@/components/ui/card";
-import { Link } from "@/lib/i18n";
+import { Link } from "@/i18n";
 import { useTranslations } from "next-intl";
 
 export default function Home() {

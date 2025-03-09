@@ -3,7 +3,7 @@ import type { Metadata } from "next";
 import { Inter } from "next/font/google";
 import { notFound } from "next/navigation";
 import { NextIntlClientProvider } from "next-intl";
-import { locales } from "@/lib/i18n";
+import { locales } from "@/i18n";
 import "../globals.css";
 import { Header } from "@/components/header";
 import { Providers } from "@/lib/providers";
@@ -35,7 +35,7 @@ export default async function RootLayout({
 
   let messages;
   try {
-    messages = (await import(`@/lib/i18n/locales/${locale}.json`)).default;
+    messages = (await import(`@/i18n/locales/${locale}.json`)).default;
   } catch (error) {
     notFound();
   }

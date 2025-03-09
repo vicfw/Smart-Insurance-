@@ -33,7 +33,7 @@ import { Alert, AlertDescription, AlertTitle } from "@/components/ui/alert";
 import { AlertCircle } from "lucide-react";
 import { ScrollArea } from "@/components/ui/scroll-area";
 import { useTranslations } from "next-intl";
-import { Link } from "@/lib/i18n";
+import { Link } from "@/i18n";
 
 export function ApplicationsList() {
   const t = useTranslations();

@@ -6,7 +6,7 @@ import { LanguageSwitcher } from "./language-switcher";
 import { Menu, X } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { cn } from "@/lib/utils";
-import { Link } from "@/lib/i18n";
+import { Link } from "@/i18n";
 import { useTranslations } from "next-intl";
 
 export function Header() {
