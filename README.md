@@ -43,11 +43,7 @@ This is a Next.js-based Smart Insurance Application Portal that allows users to 
    ```sh
    npm install  # or yarn install
    ```
-3. Create an `.env.local` file for environment variables:
-   ```sh
-   NEXT_PUBLIC_API_BASE_URL=https://assignment.devotel.io
-   ```
-4. Run the development server:
+3. Run the development server:
    ```sh
    npm run dev  # or yarn dev
    ```
